@@ -1,5 +1,5 @@
 # 📅 30-Day IELTS Vocabulary Study Plan
-###Keep going 
+ 
 
 ## Daily Plan Overview
 This plan provides a structured approach to mastering IELTS vocabulary across Listening, Reading, Writing, and Speaking.
