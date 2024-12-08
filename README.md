@@ -3,7 +3,7 @@
 
 ## Daily Plan Overview
 This plan provides a structured approach to mastering IELTS vocabulary across Listening, Reading, Writing, and Speaking.
-
+  
 ### Day 1: 2024-12-02
 - **Focus Topic**: Listening - Daily Life
 - **Vocabulary**: reservation, amenity, utility, refund, landmark
